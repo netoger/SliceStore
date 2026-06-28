@@ -1,0 +1,14 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+asyncpg==0.29.0
+aioboto3==12.4.0
+redis[asyncio]==5.0.3
+python-multipart==0.0.9
+pydantic==2.7.0
+pydantic-settings==2.2.1
+xxhash==3.4.1
+msgpack==1.0.8
+python-jose[cryptography]==3.3.0
+lz4==4.3.3
+zstandard==0.22.0
+bsdiff4==1.2.4

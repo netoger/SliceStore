@@ -1,0 +1,7 @@
+lz4==4.3.3
+zstandard==0.22.0
+bsdiff4==1.2.4
+xxhash==3.4.1
+msgpack==1.0.8
+pytest==8.2.0
+requests==2.31.0
